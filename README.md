@@ -14,8 +14,13 @@ CONTROLS:
 Select = Backspace -> Go to start
 
 Start = Enter -> Start game
+
 A = Z -> End cutscene
+
 Up = Up Arrow -> Move up
+
 Down = Down Arrow -> Move down
+
 Left = Left Arrow -> Move left
+
 Right = Right Arrow -> Move right
