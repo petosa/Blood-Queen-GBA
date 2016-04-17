@@ -11,7 +11,8 @@ The main game logic is contained in BloodQueen.c. Helper methods are in MyLib.c 
 CONTROLS:
 [GBA]      [Keyboard]    [In Game]
 
-Select = Backspace -> Go to start \\ \n
+Select = Backspace -> Go to start
+
 Start = Enter -> Start game
 A = Z -> End cutscene
 Up = Up Arrow -> Move up
