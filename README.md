@@ -9,6 +9,7 @@ Each stage has its name displayed at the bottom left, and health is always visib
 The main game logic is contained in BloodQueen.c. Helper methods are in MyLib.c and game.c. Individual level code is contained in stage#.h files, and prototypes, macros, structs, global variables, etc are contained in myLib.h. All other c and h files are picture resources.
 
 FULL GAME PLAYTHROUGH:
+
 [![](http://i.imgur.com/ash2YTK.png)](https://www.youtube.com/watch?v=F3ONtpFCYhs)
 
 CONTROLS:
